@@ -1,0 +1,38 @@
+{
+  "name": "express-serializer",
+  "version": "1.0.0",
+  "description": "Serialization helper to handle arrays and property filtering for Express APIs",
+  "main": "index.js",
+  "scripts": {
+    "doctoc": "doctoc --notitle --github README.md",
+    "test": "nyc --reporter=html --reporter=text mocha spec/**/*.spec.js",
+    "test:coveralls": "nyc report --reporter=text-lcov | coveralls"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MediaComem/express-serializer.git"
+  },
+  "keywords": [
+    "express",
+    "serializer",
+    "api",
+    "json"
+  ],
+  "author": "Media Engineering Institute <mei@heig-vd.ch>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MediaComem/express-serializer/issues"
+  },
+  "homepage": "https://github.com/MediaComem/express-serializer#readme",
+  "dependencies": {
+    "lodash": "^4.17.4"
+  },
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "coveralls": "^3.0.0",
+    "doctoc": "^1.3.0",
+    "mocha": "^4.0.1",
+    "nyc": "^11.3.0",
+    "sinon": "^4.1.2"
+  }
+}
