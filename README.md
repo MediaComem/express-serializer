@@ -3,6 +3,8 @@
 Serialization helper to handle arrays and property filtering for [Express][express] APIs.
 
 [![npm version](https://badge.fury.io/js/express-serializer.svg)](https://badge.fury.io/js/express-serializer)
+[![Build Status](https://travis-ci.org/MediaComem/express-serializer.svg?branch=master)](https://travis-ci.org/MediaComem/express-serializer)
+[![Coverage Status](https://coveralls.io/repos/github/MediaComem/express-serializer/badge.svg?branch=master)](https://coveralls.io/github/MediaComem/express-serializer?branch=master)
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE.txt)
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
