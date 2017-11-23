@@ -18,7 +18,10 @@
     "api",
     "json"
   ],
-  "author": "Media Engineering Institute <mei@heig-vd.ch>",
+  "author": "Media Engineering Institute <mei@heig-vd.ch> (mei.heig-vd.ch)",
+  "contributors": [
+    "Simon Oulevay <npm@alphahydrae.com>"
+  ],
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/MediaComem/express-serializer/issues"
