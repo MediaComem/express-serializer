@@ -1,6 +1,6 @@
 {
   "name": "express-serializer",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Serialization helper to handle arrays and property filtering for Express APIs",
   "main": "index.js",
   "scripts": {
