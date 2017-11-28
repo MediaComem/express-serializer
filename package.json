@@ -27,6 +27,11 @@
     "url": "https://github.com/MediaComem/express-serializer/issues"
   },
   "homepage": "https://github.com/MediaComem/express-serializer#readme",
+  "files": [
+    "index.js",
+    "LICENSE.txt",
+    "README.md"
+  ],
   "dependencies": {
     "lodash": "^4.17.4"
   },
